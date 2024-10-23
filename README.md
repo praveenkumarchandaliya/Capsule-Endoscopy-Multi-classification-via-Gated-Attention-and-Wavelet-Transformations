@@ -17,7 +17,7 @@ To get started with this project, clone the repository and install the required 
    Make sure you have Python installed. Then, run the following command to install the necessary packages:
    ```bash
    pip install -r requirements.txt
-##Usage
+## Usage
 1. To run the training script, use the following command:
    ```bash
    python Training.py
@@ -25,3 +25,5 @@ To get started with this project, clone the repository and install the required 
 2. For testing the model, execute:
    ```bash
    python Testing.py
+## Checkpoint Files
+   The model checkpoints can be found in the root directory. The checkpoint file "CP-PT_50_epochs.pth" contains the model weights after training for 50 epochs.
