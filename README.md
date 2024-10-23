@@ -1,0 +1,2 @@
+# Capsule-Endoscopy-Multi-classification-via-Gated-Attention-and-Wavelet-Transformations
+This repository implements a novel deep learning model for automatic classification of gastrointestinal abnormalities in VCE frames. It integrates Omni-Dimensional Gated Attention and wavelet transformation into a modified ResNet18-based deep encoder-decoder architecture, enabling intricate multi-level feature extraction.
