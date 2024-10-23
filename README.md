@@ -8,3 +8,17 @@ To get started with this project, clone the repository and install the required 
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/09Srinivas2005/Capsule-Endoscopy-Multi-classification-via-Gated-Attention-and-Wavelet-Transformations.git
+
+2. **Navigate to the Project Directory**
+   ```bash
+   cd Capsule-Endoscopy-Multi-classification-via-Gated-Attention-and-Wavelet-Transformations
+
+3. **Install Required Packages**
+   Make sure you have Python installed. Then, run the following command to install the necessary packages:
+   ```bash
+   pip install -r requirements.txt
+##Usage
+To run the training script, use the following command:
+python train_model.py
+For testing the model, execute:
+python test_model.py
