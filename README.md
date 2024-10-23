@@ -20,8 +20,8 @@ To get started with this project, clone the repository and install the required 
 ##Usage
 1. To run the training script, use the following command:
    ```bash
-   python train_model.py
+   python Training.py
 
 2. For testing the model, execute:
    ```bash
-   python test_model.py
+   python Testing.py
