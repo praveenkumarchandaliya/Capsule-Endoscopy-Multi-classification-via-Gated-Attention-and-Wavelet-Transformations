@@ -18,7 +18,10 @@ To get started with this project, clone the repository and install the required 
    ```bash
    pip install -r requirements.txt
 ##Usage
-To run the training script, use the following command:
-python train_model.py
-For testing the model, execute:
-python test_model.py
+1. To run the training script, use the following command:
+   ```bash
+   python train_model.py
+
+2. For testing the model, execute:
+   ```bash
+   python test_model.py
