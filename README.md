@@ -32,7 +32,7 @@ To get started with this project, clone the repository and install the required 
 
 The performance of the proposed model was evaluated on Datasets provided by Capsule Vision 2024 Challenge and compared against two baseline models, VGG16 and ResNet50. The model demonstrated superior performance across multiple metrics, highlighting its capability to accurately classify gastrointestinal abnormalities in Video Capsule Endoscopy (VCE) frames.
 
-### Key Metrics:
+### Key Metrics of the Proposed Model:
 
 - **AUC (Area Under the Curve)**: 87.49
 - **Balanced Accuracy**: 94.81
