@@ -54,4 +54,11 @@ The table below provides a comparison of the proposed model's performance with t
 | **Proposed Model**   | 87.49 |       94.81       |  91.19   |   91.11  |   91.17   |  91.19 |    98.44    |
 
 The superior results achieved by the proposed model shows its effectiveness in identifying and classifying gastrointestinal abnormalities accurately.
+### Cite
+@inproceedings{Panchananam2024CapsuleEM,
+  title={Capsule Endoscopy Multi-classification via Gated Attention and Wavelet Transformations},
+  author={Lakshmi Srinivas Panchananam and Praveen Kumar Chandaliya and Kishor P. Upla and Kiran Raja},
+  year={2024},
+  url={https://api.semanticscholar.org/CorpusID:273638234}
+}
 
